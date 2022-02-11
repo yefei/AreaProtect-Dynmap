@@ -1,0 +1,7 @@
+name: AreaProtect-Dynmap
+author: Yefei
+website: http://minecon.cn
+description: Area Protect Dynmap
+main: cn.minecon.areaprotect.dynmap.AreaDynmap
+version: ${project.version}
+depend: [AreaProtect,dynmap]
